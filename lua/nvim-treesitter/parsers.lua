@@ -988,7 +988,7 @@ list.ocaml_interface = {
     files = { "src/parser.c", "src/scanner.cc" },
     location = "interface",
   },
-  filetype = "ocamlinterface",
+  filetype = "ocaml.interface",
   maintainers = { "@undu" },
 }
 
